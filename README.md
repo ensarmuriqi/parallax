@@ -1,2 +1,1 @@
-# parallax
-https://misandei17.github.io/parallax/
+https://ensarmuriqi.github.io/parallax/
